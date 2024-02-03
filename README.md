@@ -1,2 +1,2 @@
-# Portofolio
-Portofolio using Sass
+# Portfolio
+Portfolio using Sass
